@@ -1,4 +1,4 @@
-# codalab2022
+# Codalab 2022 Timings
 
 The report.json file contains inference times for all submissions which have been
 successfully evaluated in: https://codalab.lisn.upsaclay.fr/my/competition/1755/submissions/
