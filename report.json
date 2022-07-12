@@ -3,31 +3,55 @@
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "CCjiahao",
+        "filename": "0883.zip",
+        "submitted_at": "2022-06-29T11:26:27.014300Z"
     },
     "137887": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "by_layer": [],
-        "inference_us": 0
+        "inference_us": 0,
+        "username": "lishen",
+        "filename": "base7_noIntegrate_dense_psnr_pretrain.zip",
+        "submitted_at": "2022-06-13T02:25:06.411858Z"
     },
     "150988": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "lishen",
+        "filename": "base7_noIntegrate_dense_psnr_pretrain3x3.zip",
+        "submitted_at": "2022-07-07T03:15:31.597849Z"
+    },
+    "154184": {
+        "notes": "",
+        "error": "Error compiling model",
+        "inference_us": 0,
+        "by_layer": [],
+        "username": "lvseng.zf",
+        "filename": "sub_double_left_twice.zip",
+        "submitted_at": "2022-07-12T09:42:27.107127Z"
     },
     "149409": {
         "notes": "",
         "error": "Error, multiple model files in submission: model_none_float.tflite, model_none.tflite, model.tflite",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "Huaen",
+        "filename": "submit.zip",
+        "submitted_at": "2022-07-04T07:15:19.180618Z"
     },
     "136568": {
         "notes": "",
         "error": "Error, multiple model files in submission: model_none.tflite, model.tflite",
         "by_layer": [],
-        "inference_us": 0
+        "inference_us": 0,
+        "username": "stevek",
+        "filename": "base.zip",
+        "submitted_at": "2022-06-10T02:05:35.600503Z"
     },
     "135910": {
         "notes": "",
@@ -130,25 +154,37 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 2674
             }
-        ]
+        ],
+        "username": "JiNiTaiMei",
+        "filename": "fuxian_abpn.zip",
+        "submitted_at": "2022-06-09T02:55:58.204376Z"
     },
     "135328": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "lishen",
+        "filename": "base7_noInt_psnr_float.zip",
+        "submitted_at": "2022-06-08T04:59:13.824304Z"
     },
     "143532": {
         "notes": "",
         "error": "Error, no model files in submission",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "NBCS",
+        "filename": "base7.zip",
+        "submitted_at": "2022-06-23T01:58:19.510515Z"
     },
     "150374": {
         "notes": "",
         "error": "Error, no model files in submission",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "zion_",
+        "filename": "basicSR-baseDF2K-35000.zip",
+        "submitted_at": "2022-07-05T20:57:35.116875Z"
     },
     "148340": {
         "notes": "",
@@ -211,7 +247,10 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 0
             }
-        ]
+        ],
+        "username": "CCjiahao",
+        "filename": "0883.zip",
+        "submitted_at": "2022-07-01T09:35:46.268480Z"
     },
     "134801": {
         "notes": "",
@@ -302,19 +341,28 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 1741
             }
-        ]
+        ],
+        "username": "CCjiahao",
+        "filename": "0883.zip",
+        "submitted_at": "2022-06-07T06:23:20.624667Z"
     },
     "136616": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "lishen",
+        "filename": "base7_noIntegrate_swap4.zip",
+        "submitted_at": "2022-06-10T03:32:16.837122Z"
     },
     "140839": {
         "notes": "",
         "error": "Error, multiple model files in submission: model_none.tflite, model.tflite",
         "by_layer": [],
-        "inference_us": 0
+        "inference_us": 0,
+        "username": "oasis",
+        "filename": "submission.zip",
+        "submitted_at": "2022-06-17T02:53:22.506981Z"
     },
     "144630": {
         "notes": "",
@@ -417,13 +465,19 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 2670
             }
-        ]
+        ],
+        "username": "sr_enhance",
+        "filename": "result_div2k.zip",
+        "submitted_at": "2022-06-25T03:48:25.241133Z"
     },
     "143844": {
         "notes": "",
         "error": "Error, model input shape must be [1, 360, 640, 3], got: [1, 1, 1, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "JiNiTaiMei",
+        "filename": "submit_more_d_sisr_0623.zip",
+        "submitted_at": "2022-06-23T12:02:25.046746Z"
     },
     "147221": {
         "notes": "",
@@ -490,13 +544,19 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 20483
             }
-        ]
+        ],
+        "username": "CCjiahao",
+        "filename": "0883.zip",
+        "submitted_at": "2022-06-29T08:35:58.197414Z"
     },
     "148269": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "zion_",
+        "filename": "visual-qat-ptm3-30.16.zip",
+        "submitted_at": "2022-07-01T06:25:58.409905Z"
     },
     "147886": {
         "notes": "",
@@ -599,37 +659,55 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 2743
             }
-        ]
+        ],
+        "username": "ganzoo",
+        "filename": "base7_qat_D4C28_ps32.zip",
+        "submitted_at": "2022-06-30T05:33:12.701395Z"
     },
     "136449": {
         "notes": "",
         "error": "Error, multiple model files in submission: model_none.tflite, model.tflite",
         "by_layer": [],
-        "inference_us": 0
+        "inference_us": 0,
+        "username": "stevek",
+        "filename": "base.zip",
+        "submitted_at": "2022-06-09T13:48:32.144112Z"
     },
     "153643": {
         "notes": "",
         "error": "Error, model input shape must be [1, 360, 640, 3], got: [1, 1, 1, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "lishen",
+        "filename": "base7_noIntegrate_dense_psnr_pretrain3x3_swap4_twice_pesudo.zip",
+        "submitted_at": "2022-07-11T09:35:48.205868Z"
     },
     "136820": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "lchia",
+        "filename": "aim-submit.zip",
+        "submitted_at": "2022-06-10T13:03:49.925825Z"
     },
     "146119": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "lishen",
+        "filename": "base7_noIntegrate_dense_psnr_pretrain_twice.zip",
+        "submitted_at": "2022-06-28T02:41:08.169182Z"
     },
     "148084": {
         "notes": "",
         "error": "Error compiling model",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "zion_",
+        "filename": "vis.zip",
+        "submitted_at": "2022-06-30T16:32:09.343816Z"
     },
     "128195": {
         "notes": "",
@@ -732,55 +810,82 @@
                 "inference_us": 2654
             }
         ],
-        "inference_us": 45120
+        "inference_us": 45120,
+        "username": "lishen",
+        "filename": "0531_float.zip",
+        "submitted_at": "2022-06-01T07:46:18.642680Z"
     },
     "152982": {
         "notes": "",
         "error": "Error, no model files in submission",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "Sail",
+        "filename": "TFLite.zip",
+        "submitted_at": "2022-07-10T07:19:32.864530Z"
     },
     "136602": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "lishen",
+        "filename": "base7_noIntegrate_dense_psnr.zip",
+        "submitted_at": "2022-06-10T03:07:36.931479Z"
     },
     "140824": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "lishen",
+        "filename": "base7_noIntegrate_dense_psnr_pretrain_swap5.zip",
+        "submitted_at": "2022-06-17T02:37:17.032098Z"
     },
     "128194": {
         "notes": "",
         "error": "Error, no model files in submission",
         "by_layer": [],
-        "inference_us": 0
+        "inference_us": 0,
+        "username": "lishen",
+        "filename": "0531_qat.zip",
+        "submitted_at": "2022-06-01T07:43:39.319849Z"
     },
     "148415": {
         "notes": "",
         "error": "Error, multiple model files in submission: model_none_float.tflite, model_none.tflite, model.tflite",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "Huaen",
+        "filename": "submit.zip",
+        "submitted_at": "2022-07-01T14:27:41.475533Z"
     },
     "150130": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "zion_",
+        "filename": "visual-ptm4-30.19.zip",
+        "submitted_at": "2022-07-05T10:42:37.087207Z"
     },
     "134685": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "by_layer": [],
-        "inference_us": 0
+        "inference_us": 0,
+        "username": "lishen",
+        "filename": "0607_noInter_float.zip",
+        "submitted_at": "2022-06-07T01:57:27.767311Z"
     },
     "146096": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "lishen",
+        "filename": "base7_noIntegrate_dense_psnr_pretrain_rep.zip",
+        "submitted_at": "2022-06-28T02:26:18.002114Z"
     },
     "150564": {
         "notes": "",
@@ -879,25 +984,37 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 22381
             }
-        ]
+        ],
+        "username": "ganzoo",
+        "filename": "base7_org_f_D4C104_ps128.zip",
+        "submitted_at": "2022-07-06T07:09:24.162309Z"
     },
     "150966": {
         "notes": "",
         "error": "Error, multiple model files in submission: model_none.tflite, model.tflite",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "oasis",
+        "filename": "submission.zip",
+        "submitted_at": "2022-07-07T02:52:39.714464Z"
     },
     "137894": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "lishen",
+        "filename": "base7_noIntegrate_dense_psnr_pretrain_nobias_swap4.zip",
+        "submitted_at": "2022-06-13T02:34:53.807945Z"
     },
     "150368": {
         "notes": "",
         "error": "Error, no model files in submission",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "zion_",
+        "filename": "basicSR-baseDF2K-28000.zip",
+        "submitted_at": "2022-07-05T20:35:44.333493Z"
     },
     "142042": {
         "notes": "",
@@ -1004,31 +1121,46 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 1686
             }
-        ]
+        ],
+        "username": "NBCS",
+        "filename": "base9.zip",
+        "submitted_at": "2022-06-20T04:33:31.371566Z"
     },
     "151694": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "kkkls",
+        "filename": "1.zip",
+        "submitted_at": "2022-07-08T08:35:51.964676Z"
     },
     "150376": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "zion_",
+        "filename": "basicSR-baseDF2K-35000.zip",
+        "submitted_at": "2022-07-05T21:02:55.841878Z"
     },
     "148319": {
         "notes": "Inputs/Outputs data type not support:  FLOAT16, ASYM UINT8,  FLOAT32,  FLOAT16",
         "error": "Error compiling model",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "kia350",
+        "filename": "test_kia.zip",
+        "submitted_at": "2022-07-01T08:43:06.495319Z"
     },
     "125983": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "by_layer": [],
-        "inference_us": 0
+        "inference_us": 0,
+        "username": "lishen",
+        "filename": "0531.zip",
+        "submitted_at": "2022-05-31T02:22:48.575485Z"
     },
     "145859": {
         "notes": "",
@@ -1095,13 +1227,19 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 18217
             }
-        ]
+        ],
+        "username": "CCjiahao",
+        "filename": "0883.zip",
+        "submitted_at": "2022-06-27T16:17:58.732927Z"
     },
     "150979": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "lishen",
+        "filename": "base7_noIntegrate_dense_psnr_pretrain3x3_last5.zip",
+        "submitted_at": "2022-07-07T03:07:00.672916Z"
     },
     "138662": {
         "notes": "",
@@ -1232,7 +1370,10 @@
                 "inference_us": 409
             }
         ],
-        "inference_us": 88060
+        "inference_us": 88060,
+        "username": "CCjiahao",
+        "filename": "0883.zip",
+        "submitted_at": "2022-06-14T02:46:43.667342Z"
     },
     "153957": {
         "notes": "",
@@ -1331,7 +1472,10 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 18360
             }
-        ]
+        ],
+        "username": "ganzoo",
+        "filename": "base7_D4F108_bs128ps128_lr1e-3_adam_cowarmup_mixed_QAT.zip",
+        "submitted_at": "2022-07-12T01:24:24.711746Z"
     },
     "143597": {
         "notes": "",
@@ -1446,49 +1590,73 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 2668
             }
-        ]
+        ],
+        "username": "CCjiahao",
+        "filename": "0883.zip",
+        "submitted_at": "2022-06-23T03:59:10.348518Z"
     },
     "142537": {
         "notes": "",
         "error": "Error, multiple model files in submission: model_none.tflite, model.tflite",
         "by_layer": [],
-        "inference_us": 0
+        "inference_us": 0,
+        "username": "oasis",
+        "filename": "submission.zip",
+        "submitted_at": "2022-06-21T01:59:16.532904Z"
     },
     "143623": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 1080, 1920, 1]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "Sail",
+        "filename": "model.zip",
+        "submitted_at": "2022-06-23T05:02:22.971791Z"
     },
     "142162": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "b-eyes",
+        "filename": "0620udl.zip",
+        "submitted_at": "2022-06-20T09:52:03.463944Z"
     },
     "151116": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "lvseng.zf",
+        "filename": "sub_base7.zip",
+        "submitted_at": "2022-07-07T07:05:22.451178Z"
     },
     "147486": {
         "notes": "",
         "error": "Error, multiple model files in submission: model_none_float.tflite, model_none.tflite, model.tflite",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "Sail",
+        "filename": "TFLite.zip",
+        "submitted_at": "2022-06-29T15:13:31.936790Z"
     },
     "129493": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "by_layer": [],
-        "inference_us": 0
+        "inference_us": 0,
+        "username": "lishen",
+        "filename": "0602_swap_float.zip",
+        "submitted_at": "2022-06-02T09:19:42.853171Z"
     },
     "148239": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "zion_",
+        "filename": "visual-ptm3-30.11.zip",
+        "submitted_at": "2022-07-01T03:36:31.051612Z"
     },
     "135497": {
         "notes": "",
@@ -1547,7 +1715,10 @@
                 "inference_us": 2466
             }
         ],
-        "inference_us": 39970
+        "inference_us": 39970,
+        "username": "Larry",
+        "filename": "0608_larry_v1.zip",
+        "submitted_at": "2022-06-08T10:16:26.416165Z"
     },
     "153649": {
         "notes": "",
@@ -1654,13 +1825,28 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 1702
             }
-        ]
+        ],
+        "username": "ganzoo",
+        "filename": "base3_v01_m128r1_wc3_D4C28_B16P128_lr2e-3_ep800_qat_v2_time.zip",
+        "submitted_at": "2022-07-11T09:40:33.109679Z"
+    },
+    "154205": {
+        "notes": "",
+        "error": "Error, model input shape must be [1, 360, 640, 3], got: [1, 1, 1, 3]",
+        "inference_us": 0,
+        "by_layer": [],
+        "username": "lishen",
+        "filename": "base7_noIntegrate_dense_psnr_pretrain3x3_swap4_twice_pesudo.zip",
+        "submitted_at": "2022-07-12T11:23:33.735943Z"
     },
     "146196": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "lishen",
+        "filename": "base7_noIntegrate_dense_psnr_pretrain_sawp4_rep.zip",
+        "submitted_at": "2022-06-28T03:19:14.121048Z"
     },
     "149183": {
         "notes": "",
@@ -1723,13 +1909,19 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 21509
             }
-        ]
+        ],
+        "username": "CCjiahao",
+        "filename": "0883.zip",
+        "submitted_at": "2022-07-03T14:13:29.029746Z"
     },
     "140832": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "by_layer": [],
-        "inference_us": 0
+        "inference_us": 0,
+        "username": "lishen",
+        "filename": "base7_noIntegrate_dense_psnr_pretrain_swap4.zip",
+        "submitted_at": "2022-06-17T02:47:19.709993Z"
     },
     "130160": {
         "notes": "",
@@ -1788,13 +1980,19 @@
                 "inference_us": 2452
             }
         ],
-        "inference_us": 39890
+        "inference_us": 39890,
+        "username": "Larry",
+        "filename": "0603_larry_v0.zip",
+        "submitted_at": "2022-06-03T04:24:12.970931Z"
     },
     "153466": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "lishen",
+        "filename": "base7_noIntegrate_dense_psnr_pretrain3x3_swap4_twice.zip",
+        "submitted_at": "2022-07-11T01:39:48.260846Z"
     },
     "146386": {
         "notes": "",
@@ -1885,7 +2083,10 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 2504
             }
-        ]
+        ],
+        "username": "stu_tools",
+        "filename": "basenet.zip",
+        "submitted_at": "2022-06-28T07:22:20.650781Z"
     },
     "147862": {
         "notes": "",
@@ -1988,7 +2189,10 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 2657
             }
-        ]
+        ],
+        "username": "ganzoo",
+        "filename": "base7_C28_ps32_PQT.zip",
+        "submitted_at": "2022-06-30T04:06:44.274133Z"
     },
     "148649": {
         "notes": "",
@@ -2087,13 +2291,19 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 2677
             }
-        ]
+        ],
+        "username": "ganzoo",
+        "filename": "qat_wn.zip",
+        "submitted_at": "2022-07-02T05:19:47.231878Z"
     },
     "134135": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "by_layer": [],
-        "inference_us": 0
+        "inference_us": 0,
+        "username": "lishen",
+        "filename": "0606_swap_float.zip",
+        "submitted_at": "2022-06-06T01:56:20.940457Z"
     },
     "143631": {
         "notes": "",
@@ -2196,7 +2406,10 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 2655
             }
-        ]
+        ],
+        "username": "ganzoo",
+        "filename": "submit_1st_draft.zip",
+        "submitted_at": "2022-06-23T05:18:56.510731Z"
     },
     "153468": {
         "notes": "",
@@ -2319,19 +2532,28 @@
                 "type": "NN",
                 "inference_us": 11209
             }
-        ]
+        ],
+        "username": "ganzoo",
+        "filename": "pyramid_with_f28_f14_pixelshuffle.zip",
+        "submitted_at": "2022-07-11T01:45:08.741216Z"
     },
     "134151": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "by_layer": [],
-        "inference_us": 0
+        "inference_us": 0,
+        "username": "lishen",
+        "filename": "base7_c16.zip",
+        "submitted_at": "2022-06-06T02:30:49.716055Z"
     },
     "152386": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "Huaen",
+        "filename": "submit.zip",
+        "submitted_at": "2022-07-09T11:17:46.497435Z"
     },
     "153943": {
         "notes": "",
@@ -2430,31 +2652,46 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 18379
             }
-        ]
+        ],
+        "username": "ganzoo",
+        "filename": "base7_D4F108_bs128ps128_lr1e-3_adam_cowarmup_fp16_QAT_30.41.zip",
+        "submitted_at": "2022-07-12T00:18:12.482946Z"
     },
     "149411": {
         "notes": "",
         "error": "Error, multiple model files in submission: base4_G8C28_bs32ps64_lr5e-4_qat.tflite, base4_G8C28_bs32ps64_lr5e-4_qat_time.tflite",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "oasis",
+        "filename": "submission.zip",
+        "submitted_at": "2022-07-04T07:21:11.053826Z"
     },
     "145687": {
         "notes": "",
         "error": "Error, multiple model files in submission: model_none.tflite, model.tflite",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "oasis",
+        "filename": "submission.zip",
+        "submitted_at": "2022-06-27T09:49:22.410287Z"
     },
     "153577": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "lvseng.zf",
+        "filename": "sub_pesudo_val.zip",
+        "submitted_at": "2022-07-11T06:42:49.464760Z"
     },
     "134688": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "by_layer": [],
-        "inference_us": 0
+        "inference_us": 0,
+        "username": "lishen",
+        "filename": "0607_noIntergate_swap_float.zip",
+        "submitted_at": "2022-06-07T02:17:22.378970Z"
     },
     "134672": {
         "notes": "",
@@ -2541,13 +2778,19 @@
                 "inference_us": 1729
             }
         ],
-        "inference_us": 25070
+        "inference_us": 25070,
+        "username": "CCjiahao",
+        "filename": "0883.zip",
+        "submitted_at": "2022-06-07T01:19:22.279370Z"
     },
     "153525": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "zion_",
+        "filename": "visual-30.447.zip",
+        "submitted_at": "2022-07-11T03:29:45.508495Z"
     },
     "153721": {
         "notes": "",
@@ -2646,13 +2889,19 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 2669
             }
-        ]
+        ],
+        "username": "ganzoo",
+        "filename": "base7_base.zip",
+        "submitted_at": "2022-07-11T12:19:08.167698Z"
     },
     "148197": {
         "notes": "",
         "error": "Error, multiple model files in submission: model_none_float.tflite, model_none.tflite, model.tflite",
         "inference_us": 0,
-        "by_layer": []
+        "by_layer": [],
+        "username": "biuping",
+        "filename": "input.zip",
+        "submitted_at": "2022-07-01T02:25:06.420182Z"
     },
     "142432": {
         "notes": "",
@@ -2771,7 +3020,10 @@
                 "inference_us": 0
             }
         ],
-        "inference_us": 346050
+        "inference_us": 346050,
+        "username": "CCjiahao",
+        "filename": "0883.zip",
+        "submitted_at": "2022-06-20T17:47:50.026234Z"
     },
     "147944": {
         "notes": "",
@@ -2874,7 +3126,10 @@
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 2616
             }
-        ]
+        ],
+        "username": "ganzoo",
+        "filename": "base7_C28_ps32_qat_time.zip",
+        "submitted_at": "2022-06-30T08:07:24.387050Z"
     },
     "151470": {
         "notes": "",
@@ -2997,12 +3252,18 @@
                 "type": "NN",
                 "inference_us": 11211
             }
-        ]
+        ],
+        "username": "ganzoo",
+        "filename": "pyramid_with_f28_f14_pixelshuffle.zip",
+        "submitted_at": "2022-07-08T00:15:38.212574Z"
     },
     "135338": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
         "by_layer": [],
-        "inference_us": 0
+        "inference_us": 0,
+        "username": "lishen",
+        "filename": "base7_RLFN.zip",
+        "submitted_at": "2022-06-08T05:29:18.251544Z"
     }
 }
