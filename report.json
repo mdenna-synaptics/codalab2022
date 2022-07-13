@@ -177,6 +177,112 @@
         "filename": "base7.zip",
         "submitted_at": "2022-06-23T01:58:19.510515Z"
     },
+    "154327": {
+        "username": "zion_",
+        "filename": "visual-30.447-lat.zip",
+        "submitted_at": "2022-07-12T16:27:15.971098Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 45070,
+        "by_layer": [
+            {
+                "type": "TP",
+                "inference_us": 901
+            },
+            {
+                "type": "TP",
+                "inference_us": 1218
+            },
+            {
+                "type": "TP",
+                "inference_us": 1214
+            },
+            {
+                "type": "TP",
+                "inference_us": 1176
+            },
+            {
+                "type": "TP",
+                "inference_us": 1171
+            },
+            {
+                "type": "TP",
+                "inference_us": 1208
+            },
+            {
+                "type": "TP",
+                "inference_us": 1218
+            },
+            {
+                "type": "TP",
+                "inference_us": 1210
+            },
+            {
+                "type": "TP",
+                "inference_us": 1208
+            },
+            {
+                "type": "NN",
+                "inference_us": 2662
+            },
+            {
+                "type": "NN",
+                "inference_us": 2644
+            },
+            {
+                "type": "NN",
+                "inference_us": 2680
+            },
+            {
+                "type": "NN",
+                "inference_us": 3679
+            },
+            {
+                "type": "NN",
+                "inference_us": 2789
+            },
+            {
+                "type": "NN",
+                "inference_us": 2704
+            },
+            {
+                "type": "NN",
+                "inference_us": 2641
+            },
+            {
+                "type": "SH",
+                "inference_us": 16583
+            },
+            {
+                "type": "TP",
+                "inference_us": 9751
+            },
+            {
+                "type": "TP",
+                "inference_us": 8211
+            },
+            {
+                "type": "TP",
+                "inference_us": 10680
+            },
+            {
+                "type": "TP",
+                "inference_us": 51070
+            },
+            {
+                "type": "--",
+                "inference_us": 0
+            },
+            {
+                "type": "--",
+                "inference_us": 0
+            },
+            {
+                "type": "NN",
+                "inference_us": 2658
+            }
+        ]
+    },
     "150374": {
         "notes": "",
         "error": "Error, no model files in submission",
@@ -345,6 +451,112 @@
         "username": "CCjiahao",
         "filename": "0883.zip",
         "submitted_at": "2022-06-07T06:23:20.624667Z"
+    },
+    "154546": {
+        "username": "zjw",
+        "filename": "image.zip",
+        "submitted_at": "2022-07-13T05:53:13.969183Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 45070,
+        "by_layer": [
+            {
+                "type": "TP",
+                "inference_us": 930
+            },
+            {
+                "type": "TP",
+                "inference_us": 1187
+            },
+            {
+                "type": "TP",
+                "inference_us": 1210
+            },
+            {
+                "type": "TP",
+                "inference_us": 1182
+            },
+            {
+                "type": "TP",
+                "inference_us": 1208
+            },
+            {
+                "type": "TP",
+                "inference_us": 1208
+            },
+            {
+                "type": "TP",
+                "inference_us": 1208
+            },
+            {
+                "type": "TP",
+                "inference_us": 1212
+            },
+            {
+                "type": "TP",
+                "inference_us": 1210
+            },
+            {
+                "type": "NN",
+                "inference_us": 2686
+            },
+            {
+                "type": "NN",
+                "inference_us": 2660
+            },
+            {
+                "type": "NN",
+                "inference_us": 2654
+            },
+            {
+                "type": "NN",
+                "inference_us": 2636
+            },
+            {
+                "type": "NN",
+                "inference_us": 2739
+            },
+            {
+                "type": "NN",
+                "inference_us": 2719
+            },
+            {
+                "type": "NN",
+                "inference_us": 2654
+            },
+            {
+                "type": "SH",
+                "inference_us": 16573
+            },
+            {
+                "type": "TP",
+                "inference_us": 9785
+            },
+            {
+                "type": "TP",
+                "inference_us": 8144
+            },
+            {
+                "type": "TP",
+                "inference_us": 9701
+            },
+            {
+                "type": "TP",
+                "inference_us": 49202
+            },
+            {
+                "type": "--",
+                "inference_us": 0
+            },
+            {
+                "type": "--",
+                "inference_us": 0
+            },
+            {
+                "type": "NN",
+                "inference_us": 2654
+            }
+        ]
     },
     "136616": {
         "notes": "",
@@ -989,6 +1201,112 @@
         "filename": "base7_org_f_D4C104_ps128.zip",
         "submitted_at": "2022-07-06T07:09:24.162309Z"
     },
+    "154334": {
+        "username": "zion_",
+        "filename": "visual-30.447-lat1.zip",
+        "submitted_at": "2022-07-12T16:38:32.923967Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 45050,
+        "by_layer": [
+            {
+                "type": "TP",
+                "inference_us": 901
+            },
+            {
+                "type": "TP",
+                "inference_us": 1208
+            },
+            {
+                "type": "TP",
+                "inference_us": 1238
+            },
+            {
+                "type": "TP",
+                "inference_us": 1208
+            },
+            {
+                "type": "TP",
+                "inference_us": 1208
+            },
+            {
+                "type": "TP",
+                "inference_us": 1188
+            },
+            {
+                "type": "TP",
+                "inference_us": 1174
+            },
+            {
+                "type": "TP",
+                "inference_us": 1177
+            },
+            {
+                "type": "TP",
+                "inference_us": 1208
+            },
+            {
+                "type": "NN",
+                "inference_us": 2664
+            },
+            {
+                "type": "NN",
+                "inference_us": 3678
+            },
+            {
+                "type": "NN",
+                "inference_us": 2654
+            },
+            {
+                "type": "NN",
+                "inference_us": 2677
+            },
+            {
+                "type": "NN",
+                "inference_us": 2704
+            },
+            {
+                "type": "NN",
+                "inference_us": 2705
+            },
+            {
+                "type": "NN",
+                "inference_us": 3681
+            },
+            {
+                "type": "SH",
+                "inference_us": 16563
+            },
+            {
+                "type": "TP",
+                "inference_us": 9699
+            },
+            {
+                "type": "TP",
+                "inference_us": 8160
+            },
+            {
+                "type": "TP",
+                "inference_us": 9640
+            },
+            {
+                "type": "TP",
+                "inference_us": 51033
+            },
+            {
+                "type": "--",
+                "inference_us": 0
+            },
+            {
+                "type": "--",
+                "inference_us": 0
+            },
+            {
+                "type": "NN",
+                "inference_us": 2594
+            }
+        ]
+    },
     "150966": {
         "notes": "",
         "error": "Error, multiple model files in submission: model_none.tflite, model.tflite",
@@ -1015,6 +1333,160 @@
         "username": "zion_",
         "filename": "basicSR-baseDF2K-28000.zip",
         "submitted_at": "2022-07-05T20:35:44.333493Z"
+    },
+    "154367": {
+        "username": "j_npu",
+        "filename": "submittion.zip",
+        "submitted_at": "2022-07-12T17:50:49.103362Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 135280,
+        "by_layer": [
+            {
+                "type": "TP",
+                "inference_us": 893
+            },
+            {
+                "type": "TP",
+                "inference_us": 1209
+            },
+            {
+                "type": "SH",
+                "inference_us": 2751
+            },
+            {
+                "type": "NN",
+                "inference_us": 1101
+            },
+            {
+                "type": "NN",
+                "inference_us": 1148
+            },
+            {
+                "type": "TP",
+                "inference_us": 20370
+            },
+            {
+                "type": "NN",
+                "inference_us": 2001
+            },
+            {
+                "type": "NN",
+                "inference_us": 742
+            },
+            {
+                "type": "SH",
+                "inference_us": 3660
+            },
+            {
+                "type": "SH",
+                "inference_us": 4946
+            },
+            {
+                "type": "SH",
+                "inference_us": 3223
+            },
+            {
+                "type": "NN",
+                "inference_us": 751
+            },
+            {
+                "type": "SH",
+                "inference_us": 5064
+            },
+            {
+                "type": "SH",
+                "inference_us": 3214
+            },
+            {
+                "type": "NN",
+                "inference_us": 751
+            },
+            {
+                "type": "SH",
+                "inference_us": 4925
+            },
+            {
+                "type": "SH",
+                "inference_us": 3201
+            },
+            {
+                "type": "NN",
+                "inference_us": 751
+            },
+            {
+                "type": "SH",
+                "inference_us": 4919
+            },
+            {
+                "type": "NN",
+                "inference_us": 2306
+            },
+            {
+                "type": "TP",
+                "inference_us": 7045
+            },
+            {
+                "type": "SH",
+                "inference_us": 7213
+            },
+            {
+                "type": "NN",
+                "inference_us": 1852
+            },
+            {
+                "type": "SH",
+                "inference_us": 9845
+            },
+            {
+                "type": "SH",
+                "inference_us": 6397
+            },
+            {
+                "type": "NN",
+                "inference_us": 1851
+            },
+            {
+                "type": "SH",
+                "inference_us": 9837
+            },
+            {
+                "type": "NN",
+                "inference_us": 2252
+            },
+            {
+                "type": "NN",
+                "inference_us": 3735
+            },
+            {
+                "type": "TP",
+                "inference_us": 9413
+            },
+            {
+                "type": "SH",
+                "inference_us": 24309
+            },
+            {
+                "type": "TP",
+                "inference_us": 8400
+            },
+            {
+                "type": "TP",
+                "inference_us": 53096
+            },
+            {
+                "type": "--",
+                "inference_us": 0
+            },
+            {
+                "type": "--",
+                "inference_us": 0
+            },
+            {
+                "type": "NN",
+                "inference_us": 766
+            }
+        ]
     },
     "142042": {
         "notes": "",
@@ -1135,6 +1607,15 @@
         "filename": "1.zip",
         "submitted_at": "2022-07-08T08:35:51.964676Z"
     },
+    "154526": {
+        "username": "NBCS",
+        "filename": "qat_30.186.zip",
+        "submitted_at": "2022-07-13T05:09:57.953908Z",
+        "notes": "",
+        "error": "Error, multiple model files in submission: model_none_float.tflite, model_none.tflite, model.tflite",
+        "inference_us": 0,
+        "by_layer": []
+    },
     "150376": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
@@ -1143,6 +1624,112 @@
         "username": "zion_",
         "filename": "basicSR-baseDF2K-35000.zip",
         "submitted_at": "2022-07-05T21:02:55.841878Z"
+    },
+    "154341": {
+        "username": "zion_",
+        "filename": "visual-30.447-lat0.zip",
+        "submitted_at": "2022-07-12T16:44:09.976904Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 45090,
+        "by_layer": [
+            {
+                "type": "TP",
+                "inference_us": 901
+            },
+            {
+                "type": "TP",
+                "inference_us": 1209
+            },
+            {
+                "type": "TP",
+                "inference_us": 1220
+            },
+            {
+                "type": "TP",
+                "inference_us": 1175
+            },
+            {
+                "type": "TP",
+                "inference_us": 1208
+            },
+            {
+                "type": "TP",
+                "inference_us": 1194
+            },
+            {
+                "type": "TP",
+                "inference_us": 1208
+            },
+            {
+                "type": "TP",
+                "inference_us": 1208
+            },
+            {
+                "type": "TP",
+                "inference_us": 1208
+            },
+            {
+                "type": "NN",
+                "inference_us": 2618
+            },
+            {
+                "type": "NN",
+                "inference_us": 2700
+            },
+            {
+                "type": "NN",
+                "inference_us": 2684
+            },
+            {
+                "type": "NN",
+                "inference_us": 2671
+            },
+            {
+                "type": "NN",
+                "inference_us": 2723
+            },
+            {
+                "type": "NN",
+                "inference_us": 2730
+            },
+            {
+                "type": "NN",
+                "inference_us": 2671
+            },
+            {
+                "type": "SH",
+                "inference_us": 16568
+            },
+            {
+                "type": "TP",
+                "inference_us": 9802
+            },
+            {
+                "type": "TP",
+                "inference_us": 8201
+            },
+            {
+                "type": "TP",
+                "inference_us": 9699
+            },
+            {
+                "type": "TP",
+                "inference_us": 48940
+            },
+            {
+                "type": "--",
+                "inference_us": 0
+            },
+            {
+                "type": "--",
+                "inference_us": 0
+            },
+            {
+                "type": "NN",
+                "inference_us": 3637
+            }
+        ]
     },
     "148319": {
         "notes": "Inputs/Outputs data type not support:  FLOAT16, ASYM UINT8,  FLOAT32,  FLOAT16",
@@ -1231,6 +1818,112 @@
         "username": "CCjiahao",
         "filename": "0883.zip",
         "submitted_at": "2022-06-27T16:17:58.732927Z"
+    },
+    "154313": {
+        "username": "kkkls",
+        "filename": "1.zip",
+        "submitted_at": "2022-07-12T15:40:45.009056Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 45020,
+        "by_layer": [
+            {
+                "type": "TP",
+                "inference_us": 937
+            },
+            {
+                "type": "TP",
+                "inference_us": 1209
+            },
+            {
+                "type": "TP",
+                "inference_us": 1199
+            },
+            {
+                "type": "TP",
+                "inference_us": 1222
+            },
+            {
+                "type": "TP",
+                "inference_us": 1180
+            },
+            {
+                "type": "TP",
+                "inference_us": 1208
+            },
+            {
+                "type": "TP",
+                "inference_us": 1208
+            },
+            {
+                "type": "TP",
+                "inference_us": 1208
+            },
+            {
+                "type": "TP",
+                "inference_us": 1208
+            },
+            {
+                "type": "NN",
+                "inference_us": 2639
+            },
+            {
+                "type": "NN",
+                "inference_us": 2666
+            },
+            {
+                "type": "NN",
+                "inference_us": 2653
+            },
+            {
+                "type": "NN",
+                "inference_us": 2656
+            },
+            {
+                "type": "NN",
+                "inference_us": 2720
+            },
+            {
+                "type": "NN",
+                "inference_us": 2705
+            },
+            {
+                "type": "NN",
+                "inference_us": 2653
+            },
+            {
+                "type": "SH",
+                "inference_us": 16650
+            },
+            {
+                "type": "TP",
+                "inference_us": 9700
+            },
+            {
+                "type": "TP",
+                "inference_us": 9088
+            },
+            {
+                "type": "TP",
+                "inference_us": 9726
+            },
+            {
+                "type": "TP",
+                "inference_us": 52076
+            },
+            {
+                "type": "--",
+                "inference_us": 0
+            },
+            {
+                "type": "--",
+                "inference_us": 0
+            },
+            {
+                "type": "NN",
+                "inference_us": 2633
+            }
+        ]
     },
     "150979": {
         "notes": "",
@@ -3265,5 +3958,111 @@
         "username": "lishen",
         "filename": "base7_RLFN.zip",
         "submitted_at": "2022-06-08T05:29:18.251544Z"
+    },
+    "154337": {
+        "username": "zion_",
+        "filename": "visual-30.447-lat2.zip",
+        "submitted_at": "2022-07-12T16:41:52.105421Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 58040,
+        "by_layer": [
+            {
+                "type": "TP",
+                "inference_us": 903
+            },
+            {
+                "type": "TP",
+                "inference_us": 1184
+            },
+            {
+                "type": "TP",
+                "inference_us": 1265
+            },
+            {
+                "type": "TP",
+                "inference_us": 1180
+            },
+            {
+                "type": "TP",
+                "inference_us": 1209
+            },
+            {
+                "type": "TP",
+                "inference_us": 1207
+            },
+            {
+                "type": "TP",
+                "inference_us": 1187
+            },
+            {
+                "type": "TP",
+                "inference_us": 1209
+            },
+            {
+                "type": "TP",
+                "inference_us": 1209
+            },
+            {
+                "type": "NN",
+                "inference_us": 9151
+            },
+            {
+                "type": "NN",
+                "inference_us": 9234
+            },
+            {
+                "type": "NN",
+                "inference_us": 9215
+            },
+            {
+                "type": "NN",
+                "inference_us": 9239
+            },
+            {
+                "type": "NN",
+                "inference_us": 9237
+            },
+            {
+                "type": "NN",
+                "inference_us": 9257
+            },
+            {
+                "type": "NN",
+                "inference_us": 9222
+            },
+            {
+                "type": "SH",
+                "inference_us": 16580
+            },
+            {
+                "type": "TP",
+                "inference_us": 9742
+            },
+            {
+                "type": "TP",
+                "inference_us": 8218
+            },
+            {
+                "type": "TP",
+                "inference_us": 9795
+            },
+            {
+                "type": "TP",
+                "inference_us": 49182
+            },
+            {
+                "type": "--",
+                "inference_us": 0
+            },
+            {
+                "type": "--",
+                "inference_us": 0
+            },
+            {
+                "type": "NN",
+                "inference_us": 9241
+            }
+        ]
     }
 }
