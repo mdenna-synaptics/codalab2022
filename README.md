@@ -1,7 +1,7 @@
 # Codalab 2022 Timings
 
 The report.json file contains inference times for all submissions which have been
-successfully evaluated in: https://codalab.lisn.upsaclay.fr/my/competition/1755/submissions/
+successfully evaluated.
 
 For each submission ID the file contains:
 - author, filename and date of the submission
@@ -12,11 +12,11 @@ For each submission ID the file contains:
 
 
 Top Inference Times
--------------------
+--------------------
 ID      |  Inference
 ------  |  ---------
-134672  |  25070 us
-134801  |  25410 us
-148340  |  28090 us
-149183  |  30320 us
-145859  |  33950 us
+134672  |   25070 us
+134801  |   25410 us
+148340  |   28090 us
+149183  |   30320 us
+145859  |   33950 us
