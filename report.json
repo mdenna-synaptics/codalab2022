@@ -2317,7 +2317,7 @@
     },
     "148084": {
         "notes": "",
-        "error": "Error compiling model",
+        "error": "Error, model input shape must be [1, 360, 640, 3], got: [1, 1, 1, 3]",
         "inference_us": 0,
         "by_layer": [],
         "username": "zion_",
@@ -2431,7 +2431,7 @@
         "submitted_at": "2022-06-01T07:46:18.642680Z"
     },
     "155369": {
-        "notes": "",
+        "notes": "There is some issue with quantization, we are investigating",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": [],
@@ -3485,7 +3485,7 @@
         "username": "kia350",
         "filename": "test2_kia.zip",
         "submitted_at": "2022-07-13T10:44:03.202345Z",
-        "notes": "There is an issue with quantization, we are checking this on our side",
+        "notes": "Please check your model, looks like there is an isue with quantization of the last conv: RuntimeError: tensorflow/lite/kernels/conv.cc:449 filter->quantization.type != kTfLiteAffineQuantization (0 != 1)Node number 71 (CONV_2D) failed to prepare",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -3675,7 +3675,7 @@
         "username": "stevek",
         "filename": "base7_light.zip",
         "submitted_at": "2022-07-13T09:34:04.053577Z",
-        "notes": "",
+        "notes": "Bad input size: 1x1x1x3",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -5844,7 +5844,7 @@
         "submitted_at": "2022-06-17T02:47:19.709993Z"
     },
     "155363": {
-        "notes": "",
+        "notes": "Check your model quantizatione: Inputs/Outputs data type not support: ASYM UINT8,  FLOAT16,  FLOAT32, ASYM UINT8",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": [],
