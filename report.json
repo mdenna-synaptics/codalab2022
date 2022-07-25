@@ -863,7 +863,7 @@
         "username": "ganzoo",
         "filename": "test_gz_base7_f64.zip",
         "submitted_at": "2022-07-22T08:44:59.128963Z",
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -3689,7 +3689,7 @@
         "username": "ykh1123",
         "filename": "res4_v2.zip",
         "submitted_at": "2022-07-21T06:34:08.939043Z",
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -4605,7 +4605,7 @@
         "username": "ganzoo",
         "filename": "test_gz_base7_f64.zip",
         "submitted_at": "2022-07-21T09:41:58.785670Z",
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -6421,7 +6421,7 @@
         "username": "ykh1123",
         "filename": "base_best.zip",
         "submitted_at": "2022-07-19T18:43:18.865236Z",
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -7478,7 +7478,7 @@
         "username": "ykh1123",
         "filename": "residual_4_v1.zip",
         "submitted_at": "2022-07-21T05:49:36.923803Z",
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -8026,7 +8026,7 @@
         "username": "ganzoo",
         "filename": "test_7_2ndTRAIn_QAT.zip",
         "submitted_at": "2022-07-21T04:40:58.768723Z",
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -11535,7 +11535,7 @@
         ]
     },
     "155369": {
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": [],
@@ -12459,6 +12459,15 @@
                 "inference_us": 30
             }
         ]
+    },
+    "160474": {
+        "username": "smhong",
+        "filename": "test1.zip",
+        "submitted_at": "2022-07-25T09:34:31.137992Z",
+        "notes": "",
+        "error": "Error, no model files in submission",
+        "inference_us": 0,
+        "by_layer": []
     },
     "159708": {
         "username": "sukhee4394",
@@ -14622,7 +14631,7 @@
         "username": "ganzoo",
         "filename": "test_7_2ndTRAIn_QAT.zip",
         "submitted_at": "2022-07-21T02:48:17.351526Z",
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -15833,7 +15842,7 @@
         "username": "sukhee4394",
         "filename": "sj_rEv110.zip",
         "submitted_at": "2022-07-21T07:04:58.251769Z",
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -16724,7 +16733,7 @@
         "username": "ykh1123",
         "filename": "base_best.zip",
         "submitted_at": "2022-07-19T17:47:01.637746Z",
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -19193,7 +19202,7 @@
         "username": "sukhee4394",
         "filename": "kim_base3_v110r1_wc2_qat.zip",
         "submitted_at": "2022-07-19T09:05:51.206143Z",
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -19487,7 +19496,7 @@
         "username": "ykh1123",
         "filename": "best.zip",
         "submitted_at": "2022-07-21T04:06:40.113940Z",
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -22782,7 +22791,7 @@
         "username": "ykh1123",
         "filename": "c4.zip",
         "submitted_at": "2022-07-20T17:03:10.934004Z",
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -24908,7 +24917,7 @@
         "username": "ykh1123",
         "filename": "residual.zip",
         "submitted_at": "2022-07-21T04:44:42.045403Z",
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -25427,7 +25436,7 @@
         "username": "ykh1123",
         "filename": "residual_v2.zip",
         "submitted_at": "2022-07-21T04:36:51.937521Z",
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -26516,7 +26525,7 @@
         "username": "ykh1123",
         "filename": "base_best.zip",
         "submitted_at": "2022-07-19T18:25:47.851992Z",
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -28300,7 +28309,7 @@
         "username": "ykh1123",
         "filename": "base5.zip",
         "submitted_at": "2022-07-19T10:14:53.621945Z",
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -29156,7 +29165,7 @@
         "username": "ykh1123",
         "filename": "nd_best.zip",
         "submitted_at": "2022-07-19T19:10:52.429080Z",
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
@@ -33800,7 +33809,7 @@
         "username": "ykh1123",
         "filename": "basem.zip",
         "submitted_at": "2022-07-19T13:15:05.282371Z",
-        "notes": "There is some issue with quantization, we are investigating",
+        "notes": "Quantized tensor value(s) outside the range [-127,127]",
         "error": "Error compiling model",
         "inference_us": 0,
         "by_layer": []
