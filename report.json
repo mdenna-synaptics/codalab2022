@@ -12386,6 +12386,15 @@
         "inference_us": 0,
         "by_layer": []
     },
+    "160684": {
+        "username": "oasis",
+        "filename": "test.zip",
+        "submitted_at": "2022-07-26T02:46:01.649561Z",
+        "notes": "",
+        "error": "Error, no model files in submission",
+        "inference_us": 0,
+        "by_layer": []
+    },
     "159157": {
         "username": "kingjames",
         "filename": "72013.zip",
@@ -18201,6 +18210,15 @@
                 "inference_us": 27
             }
         ]
+    },
+    "160538": {
+        "username": "kia350",
+        "filename": "test_code.zip",
+        "submitted_at": "2022-07-25T13:19:15.270278Z",
+        "notes": "",
+        "error": "Error, no model files in submission",
+        "inference_us": 0,
+        "by_layer": []
     },
     "159012": {
         "username": "gigi",
@@ -34235,6 +34253,15 @@
             }
         ]
     },
+    "160593": {
+        "username": "deepernewbie",
+        "filename": "MAI2022_Model.zip",
+        "submitted_at": "2022-07-25T15:56:40.336872Z",
+        "notes": "",
+        "error": "Error, model input shape must be [1, 360, 640, 3], got: [1, 640, 360, 3]",
+        "inference_us": 0,
+        "by_layer": []
+    },
     "153577": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
@@ -34376,6 +34403,15 @@
         "username": "lishen",
         "filename": "0607_noIntergate_swap_float.zip",
         "submitted_at": "2022-06-07T02:17:22.378970Z"
+    },
+    "160594": {
+        "username": "deepernewbie",
+        "filename": "MAI2022_Model.zip",
+        "submitted_at": "2022-07-25T15:56:40.557684Z",
+        "notes": "",
+        "error": "Error, model input shape must be [1, 360, 640, 3], got: [1, 640, 360, 3]",
+        "inference_us": 0,
+        "by_layer": []
     },
     "159075": {
         "username": "chefcurry",
@@ -35828,6 +35864,68 @@
             {
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 79
+            }
+        ]
+    },
+    "160707": {
+        "username": "lishen",
+        "filename": "final.zip",
+        "submitted_at": "2022-07-26T04:07:06.878551Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 34340,
+        "by_layer": [
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 892
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1280
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 983
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1275
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 979
+            },
+            {
+                "type": "TensorAdd",
+                "inference_us": 16539
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1306
+            },
+            {
+                "type": "ReorgLayer2",
+                "inference_us": 7835
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 7932
+            },
+            {
+                "type": "TensorTranspose",
+                "inference_us": 16792
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 35
             }
         ]
     },
@@ -37746,6 +37844,15 @@
                 "inference_us": 14
             }
         ]
+    },
+    "160595": {
+        "username": "kia350",
+        "filename": "test_kia.zip",
+        "submitted_at": "2022-07-25T16:06:16.267967Z",
+        "notes": "",
+        "error": "Error, no model files in submission",
+        "inference_us": 0,
+        "by_layer": []
     },
     "151470": {
         "notes": "",
