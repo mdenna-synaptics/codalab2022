@@ -2009,6 +2009,81 @@
         "filename": "fuxian_abpn.zip",
         "submitted_at": "2022-06-09T02:55:58.204376Z"
     },
+    "161208": {
+        "username": "huzm",
+        "filename": "cjskip.zip",
+        "submitted_at": "2022-07-27T16:34:31.844105Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 28590,
+        "bylayer_sum_us": 35260,
+        "by_layer": [
+            {
+                "type": "TensorTranspose",
+                "inference_us": 888
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 1015
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 456
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 371
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1040
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1010
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1039
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1034
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1032
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 631
+            },
+            {
+                "type": "ReorgLayer2",
+                "inference_us": 3864
+            },
+            {
+                "type": "ActivationLayer",
+                "inference_us": 7963
+            },
+            {
+                "type": "TensorTranspose",
+                "inference_us": 14917
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            }
+        ]
+    },
     "156217": {
         "username": "JiNiTaiMei",
         "filename": "time3_4.zip",
@@ -5166,6 +5241,69 @@
             }
         ]
     },
+    "161343": {
+        "username": "chefcurry",
+        "filename": "cpfsrl.zip",
+        "submitted_at": "2022-07-28T03:13:52.183311Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 26930,
+        "bylayer_sum_us": 34689,
+        "by_layer": [
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 368
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1062
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1088
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1047
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1065
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 2021
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 640
+            },
+            {
+                "type": "ReorgLayer2",
+                "inference_us": 3627
+            },
+            {
+                "type": "ActivationLayer",
+                "inference_us": 7997
+            },
+            {
+                "type": "TensorTranspose",
+                "inference_us": 15774
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            }
+        ]
+    },
     "136616": {
         "notes": "",
         "error": "Error, model ouput shape must be [1, 1080, 1920, 3], got: [1, 3, 3, 3]",
@@ -6402,6 +6540,69 @@
             {
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 31
+            }
+        ]
+    },
+    "161178": {
+        "username": "monk",
+        "filename": "sub_norelu_s2.zip",
+        "submitted_at": "2022-07-27T14:43:41.257715Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 19560,
+        "bylayer_sum_us": 26971,
+        "by_layer": [
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 379
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1177
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 980
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1020
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1015
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 640
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 372
+            },
+            {
+                "type": "ReorgLayer2",
+                "inference_us": 3680
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 2964
+            },
+            {
+                "type": "TensorTranspose",
+                "inference_us": 14744
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
             }
         ]
     },
@@ -9326,6 +9527,69 @@
         "inference_us": 118110,
         "by_layer": []
     },
+    "161311": {
+        "username": "huzm",
+        "filename": "fsrlnskip.zip",
+        "submitted_at": "2022-07-28T00:46:11.182640Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 26510,
+        "bylayer_sum_us": 34028,
+        "by_layer": [
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 373
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1035
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1060
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1059
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 2036
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1006
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 672
+            },
+            {
+                "type": "ReorgLayer2",
+                "inference_us": 3802
+            },
+            {
+                "type": "ActivationLayer",
+                "inference_us": 8054
+            },
+            {
+                "type": "TensorTranspose",
+                "inference_us": 14931
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            }
+        ]
+    },
     "153643": {
         "notes": "",
         "error": "Error, model input shape must be [1, 360, 640, 3], got: [1, 1, 1, 3]",
@@ -10821,6 +11085,137 @@
             {
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 251
+            }
+        ]
+    },
+    "161101": {
+        "username": "mrblue",
+        "filename": "final_submission_s28.zip",
+        "submitted_at": "2022-07-27T09:14:53.531433Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 60750,
+        "bylayer_sum_us": 79737,
+        "by_layer": [
+            {
+                "type": "TensorTranspose",
+                "inference_us": 889
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 879
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 894
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 879
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 798
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 877
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 966
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 881
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 880
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1230
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 2210
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1422
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1419
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1419
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1422
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1417
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1420
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1419
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1421
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1418
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1546
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 3540
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 2633
+            },
+            {
+                "type": "TensorAdd",
+                "inference_us": 16537
+            },
+            {
+                "type": "ReorgLayer2",
+                "inference_us": 7771
+            },
+            {
+                "type": "ActivationLayer",
+                "inference_us": 7787
+            },
+            {
+                "type": "TensorTranspose",
+                "inference_us": 15763
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
             }
         ]
     },
@@ -12684,6 +13079,85 @@
         "filename": "ba.zip",
         "submitted_at": "2022-07-14T09:03:29.715457Z"
     },
+    "161335": {
+        "username": "chefcurry",
+        "filename": "cjskipC3cv3R.zip",
+        "submitted_at": "2022-07-28T02:49:34.146222Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 28710,
+        "bylayer_sum_us": 35013,
+        "by_layer": [
+            {
+                "type": "TensorTranspose",
+                "inference_us": 889
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 879
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 878
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 395
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 379
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1066
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1101
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1081
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1032
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1089
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 655
+            },
+            {
+                "type": "ReorgLayer2",
+                "inference_us": 2692
+            },
+            {
+                "type": "ActivationLayer",
+                "inference_us": 8080
+            },
+            {
+                "type": "TensorTranspose",
+                "inference_us": 14797
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            }
+        ]
+    },
     "157233": {
         "username": "jozek_ma_os",
         "filename": "test_bc24.zip",
@@ -13361,6 +13835,93 @@
             {
                 "type": "TensorTranspose",
                 "inference_us": 18668
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            }
+        ]
+    },
+    "161109": {
+        "username": "threebee",
+        "filename": "model2.zip",
+        "submitted_at": "2022-07-27T09:54:09.747744Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 32640,
+        "bylayer_sum_us": 44948,
+        "by_layer": [
+            {
+                "type": "TensorTranspose",
+                "inference_us": 890
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1322
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1252
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 887
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 881
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1252
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1355
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 902
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 907
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1284
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 658
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 2349
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1036
+            },
+            {
+                "type": "ReorgLayer2",
+                "inference_us": 7164
+            },
+            {
+                "type": "ActivationLayer",
+                "inference_us": 7780
+            },
+            {
+                "type": "TensorTranspose",
+                "inference_us": 15029
             },
             {
                 "type": "ConvolutionReluPoolingLayer2",
@@ -14765,6 +15326,157 @@
             {
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 34
+            }
+        ]
+    },
+    "161154": {
+        "username": "ub83",
+        "filename": "intpl_gcn.zip",
+        "submitted_at": "2022-07-27T12:19:18.369409Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 56470,
+        "bylayer_sum_us": 87586,
+        "by_layer": [
+            {
+                "type": "TensorTranspose",
+                "inference_us": 889
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 886
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 883
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 904
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 879
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 890
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 882
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 881
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 877
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1143
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1923
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 2070
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 2070
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 884
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 889
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1899
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 2062
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1898
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 2062
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 2068
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 891
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 2070
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 884
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1895
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 2078
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 2076
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1852
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 967
+            },
+            {
+                "type": "TensorAdd",
+                "inference_us": 16537
+            },
+            {
+                "type": "ReorgLayer2",
+                "inference_us": 7835
+            },
+            {
+                "type": "ActivationLayer",
+                "inference_us": 7782
+            },
+            {
+                "type": "TensorTranspose",
+                "inference_us": 15780
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
             }
         ]
     },
@@ -17834,6 +18546,61 @@
             {
                 "type": "ConvolutionReluPoolingLayer2",
                 "inference_us": 34
+            }
+        ]
+    },
+    "161215": {
+        "username": "huzm",
+        "filename": "m235_clip_ps.zip",
+        "submitted_at": "2022-07-27T16:56:19.891852Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 15500,
+        "bylayer_sum_us": 25091,
+        "by_layer": [
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 453
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 923
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 923
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 926
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 942
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 906
+            },
+            {
+                "type": "ReorgLayer2",
+                "inference_us": 5017
+            },
+            {
+                "type": "TensorTranspose",
+                "inference_us": 15001
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
             }
         ]
     },
@@ -26014,6 +26781,65 @@
         "filename": "test_model.zip",
         "submitted_at": "2022-07-14T14:41:59.326364Z"
     },
+    "161382": {
+        "username": "QianPaiChiGua",
+        "filename": "test_op.zip",
+        "submitted_at": "2022-07-28T06:01:41.773615Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 15670,
+        "bylayer_sum_us": 24908,
+        "by_layer": [
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 428
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 877
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 893
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 902
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 882
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 697
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 439
+            },
+            {
+                "type": "ReorgLayer2",
+                "inference_us": 5093
+            },
+            {
+                "type": "TensorTranspose",
+                "inference_us": 14697
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            }
+        ]
+    },
     "157089": {
         "username": "zach0231",
         "filename": "71713.zip",
@@ -28752,6 +29578,81 @@
         "inference_us": 0,
         "by_layer": []
     },
+    "161169": {
+        "username": "ganzoo",
+        "filename": "SCSR_first_submission.zip",
+        "submitted_at": "2022-07-27T14:01:36.115564Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 26100,
+        "bylayer_sum_us": 38370,
+        "by_layer": [
+            {
+                "type": "TensorTranspose",
+                "inference_us": 888
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 878
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1338
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1815
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1803
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1804
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1808
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 2131
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1865
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1214
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 997
+            },
+            {
+                "type": "ReorgLayer2",
+                "inference_us": 6954
+            },
+            {
+                "type": "TensorTranspose",
+                "inference_us": 14875
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            }
+        ]
+    },
     "157853": {
         "username": "jozek_ma_os",
         "filename": "sita_shikaer.zip",
@@ -28820,6 +29721,16 @@
         "inference_us": 0,
         "by_layer": []
     },
+    "161156": {
+        "username": "oasis",
+        "filename": "final_test.zip",
+        "submitted_at": "2022-07-27T12:47:50.275573Z",
+        "notes": "",
+        "error": "Error, no model.tflite in submission",
+        "inference_us": 0,
+        "bylayer_sum_us": 0,
+        "by_layer": []
+    },
     "155363": {
         "notes": "Check your model quantizatione: Inputs/Outputs data type not support: ASYM UINT8,  FLOAT16,  FLOAT32, ASYM UINT8",
         "error": "Error compiling model",
@@ -28828,6 +29739,81 @@
         "username": "stevek",
         "filename": "base7_light.zip",
         "submitted_at": "2022-07-14T09:31:10.890030Z"
+    },
+    "161364": {
+        "username": "slow_starter",
+        "filename": "test_phase01_K3.zip",
+        "submitted_at": "2022-07-28T05:01:54.533949Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 37180,
+        "bylayer_sum_us": 55317,
+        "by_layer": [
+            {
+                "type": "TensorTranspose",
+                "inference_us": 890
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 893
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1198
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 862
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 841
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 854
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 805
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 931
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1100
+            },
+            {
+                "type": "TensorAdd",
+                "inference_us": 16534
+            },
+            {
+                "type": "ActivationLayer",
+                "inference_us": 7876
+            },
+            {
+                "type": "ReorgLayer2",
+                "inference_us": 7534
+            },
+            {
+                "type": "TensorTranspose",
+                "inference_us": 14999
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            }
+        ]
     },
     "157854": {
         "username": "jozek_ma_os",
@@ -29014,6 +30000,77 @@
             }
         ]
     },
+    "161363": {
+        "username": "slow_starter",
+        "filename": "test_phase01.zip",
+        "submitted_at": "2022-07-28T05:00:51.131547Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 21480,
+        "bylayer_sum_us": 34720,
+        "by_layer": [
+            {
+                "type": "TensorTranspose",
+                "inference_us": 890
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 894
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1383
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 873
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 838
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 926
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 801
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 989
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 952
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 2621
+            },
+            {
+                "type": "ReorgLayer2",
+                "inference_us": 7605
+            },
+            {
+                "type": "TensorTranspose",
+                "inference_us": 15948
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            }
+        ]
+    },
     "158649": {
         "username": "yl12345",
         "filename": "Conv11.zip",
@@ -29104,6 +30161,157 @@
         "username": "maciejos_s",
         "filename": "test_rp.zip",
         "submitted_at": "2022-07-14T15:01:19.540548Z"
+    },
+    "161158": {
+        "username": "yilitiaotiaotang",
+        "filename": "test.zip",
+        "submitted_at": "2022-07-27T13:03:06.398793Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 62080,
+        "bylayer_sum_us": 80246,
+        "by_layer": [
+            {
+                "type": "TensorTranspose",
+                "inference_us": 888
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 878
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 882
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 880
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 879
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 885
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 884
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 858
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 878
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1137
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1975
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1004
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1216
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1015
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1213
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 761
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 972
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1446
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1212
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1010
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1211
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1006
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1216
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1012
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1209
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1229
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 3536
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1523
+            },
+            {
+                "type": "TensorAdd",
+                "inference_us": 16536
+            },
+            {
+                "type": "ReorgLayer2",
+                "inference_us": 9049
+            },
+            {
+                "type": "ActivationLayer",
+                "inference_us": 6780
+            },
+            {
+                "type": "TensorTranspose",
+                "inference_us": 15066
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            }
+        ]
     },
     "158224": {
         "username": "ykh1123",
@@ -33611,6 +34819,69 @@
         "error": "Error, multiple model files in submission: model.tflite, base7_D4C28.tflite",
         "inference_us": 0,
         "by_layer": []
+    },
+    "161135": {
+        "username": "monk",
+        "filename": "sub_norelu.zip",
+        "submitted_at": "2022-07-27T11:09:11.571164Z",
+        "notes": "",
+        "error": "",
+        "inference_us": 34800,
+        "bylayer_sum_us": 53091,
+        "by_layer": [
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 889
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1257
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 963
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1260
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 971
+            },
+            {
+                "type": "TensorAdd",
+                "inference_us": 16535
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 1311
+            },
+            {
+                "type": "ReorgLayer2",
+                "inference_us": 7417
+            },
+            {
+                "type": "TensorCopy",
+                "inference_us": 7602
+            },
+            {
+                "type": "TensorTranspose",
+                "inference_us": 14886
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            },
+            {
+                "type": "ConvolutionReluPoolingLayer2",
+                "inference_us": 0
+            }
+        ]
     },
     "159162": {
         "username": "jetbrian",
